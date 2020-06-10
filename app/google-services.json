@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795277390955",
+    "firebase_url": "https://eggnchicken-117fd.firebaseio.com",
+    "project_id": "eggnchicken-117fd",
+    "storage_bucket": "eggnchicken-117fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795277390955:android:26fa11ffe8c2726ea5ed2e",
+        "android_client_info": {
+          "package_name": "com.example.eggnchicken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795277390955-388k33k7c5gfrgqgd7f7ecrm2jvevfr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eggnchicken",
+            "certificate_hash": "01c2290dff7730d8b7866b0d7a00946da51508d9"
+          }
+        },
+        {
+          "client_id": "795277390955-m58v44s8ludfj0n8amnmth6mnvaee8ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrZ7Y8iMSP8hOiVuDYaZD6ttGlznRNts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795277390955-m58v44s8ludfj0n8amnmth6mnvaee8ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
