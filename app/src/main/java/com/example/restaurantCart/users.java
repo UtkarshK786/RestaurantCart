@@ -1,4 +1,4 @@
-package com.example.eggnchicken;
+package com.example.restaurantCart;
 
 public class users {
     private String email;

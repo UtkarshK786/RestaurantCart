@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.eggnchicken">
+    package="com.example.restaurantCart">
 
     <application
         android:allowBackup="true"
@@ -9,10 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Cart"></activity>
-        <activity android:name=".Home" />
-        <activity android:name=".register" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.restaurantCart.Cart"></activity>
+        <activity android:name="com.example.restaurantCart.Home" />
+        <activity android:name="com.example.restaurantCart.register" />
+        <activity android:name="com.example.restaurantCart.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

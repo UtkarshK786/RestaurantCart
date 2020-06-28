@@ -1,4 +1,4 @@
-package com.example.eggnchicken;
+package com.example.restaurantCart;
 
 import org.junit.Test;
 
