@@ -78,7 +78,7 @@ public void buttonClicked(final View view){
                    for(DataSnapshot dataSnapshot2:dataSnapshot1.getChildren()){
                        if(dataSnapshot2.getValue().equals(firebaseAuth.getCurrentUser().getEmail())){
                           flg=1;
-                           Log.i("hehe","yaha tak pohoch raha hai");
+//                           Log.i("hehe","yaha tak pohoch raha hai");
                        }
                        if(flg==1&&dataSnapshot2.getKey().equals(itemz)){
                            int cnt=Integer.parseInt(dataSnapshot2.getValue().toString());

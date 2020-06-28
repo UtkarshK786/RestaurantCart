@@ -21,7 +21,7 @@
             android:id="@+id/imageView2"
             android:layout_width="180dp"
             android:layout_height="match_parent"
-            app:srcCompat="@drawable/burrito" />
+            app:srcCompat="@drawable/poha" />
 
         <TextView
             android:id="@+id/textView2"
@@ -29,7 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginStart="50dp"
-            android:text="Egg burrito"
+            android:text="Poha"
             android:textSize="22sp"
             android:textStyle="bold" />
 
@@ -94,7 +94,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginStart="50dp"
-            android:text="Egg dish"
+            android:text="Jalebi"
             android:textSize="22sp"
             android:textStyle="bold" />
 
@@ -102,7 +102,7 @@
             android:id="@+id/imageView3"
             android:layout_width="180dp"
             android:layout_height="match_parent"
-            app:srcCompat="@drawable/egg" />
+            app:srcCompat="@drawable/jalebi" />
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
@@ -142,7 +142,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginStart="50dp"
-            android:text="Chicken biryani"
+            android:text="Tasty Sharbat"
             android:textSize="22sp"
             android:textStyle="bold" />
 
@@ -150,6 +150,6 @@
             android:id="@+id/imageView4"
             android:layout_width="180dp"
             android:layout_height="match_parent"
-            app:srcCompat="@drawable/chicken" />
+            app:srcCompat="@drawable/sharbat" />
     </androidx.cardview.widget.CardView>
 </androidx.constraintlayout.widget.ConstraintLayout>
